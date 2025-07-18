@@ -23,7 +23,7 @@ html {
 body {
   color: #161616;
   font-family: var(--font-family-base);
-  font-size: font-size-medium;
+  font-size: var(--font-size-medium);
 }
 
 a {
