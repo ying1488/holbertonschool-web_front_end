@@ -46,16 +46,14 @@ a {
 
 .section-header {
   text-align: var(--section-header-align);
+  
 }
 
 .card-category, .section-tagline {
   color: #D73953;
 }
 
-.section-tagline {
-  font-family: var(--font-family-title);
-  section-tagline-transform: var()
-}
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-family-title);
