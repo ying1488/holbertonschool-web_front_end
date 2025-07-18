@@ -1,5 +1,4 @@
-
-:root{
+:root {
   --color-primary: #d73953;
   --color-black: #090909;
   --color-white: #ffffff;
@@ -13,13 +12,14 @@
 html {
   scroll-behavior: smooth;
 }
+
 body {
-  color: #161616;
-  font-family-base: var(--font-family-base);
+  color: var(--text-color);
+  font-family: var(--font-family-base);
 }
 
 a {
-  color: #161616;
+  color: var(--text-color);
 }
 
 .visually-hidden {
@@ -27,7 +27,7 @@ a {
 }
 
 .card-category, .section-tagline {
-  color: #D73953;
+  color: var(--color-primary);
 }
 
 h1, h2, h3, h4, h5, h6 {
