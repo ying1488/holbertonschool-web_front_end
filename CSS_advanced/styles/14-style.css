@@ -1,3 +1,6 @@
+/* Import the normalize css file */
+@import 'node_modules/normalize.css/normalize.css';
+
 :root{
   --color-primary: #d73953;
   --color-black: #090909;
