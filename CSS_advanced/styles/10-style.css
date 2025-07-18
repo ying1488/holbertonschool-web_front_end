@@ -43,7 +43,7 @@ a {
   display: none;
 }
 
-.section_header {
+.section-header {
   text-align: var(--section-header-align);
 }
 
