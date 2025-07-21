@@ -238,7 +238,7 @@ a:active {
 }
 
 .header-logo {
-  position: var(--header-position);
+  position: var(--header-logo-position);
 }
 
 .header-logo a {
