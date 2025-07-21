@@ -79,10 +79,6 @@ a:active {
   display: none;
 }
 
-.social-link > svg {
-  fill: var(--text-color);
-}
-
 .navbar-menu {
   float: right;
 }
@@ -199,10 +195,6 @@ background: var(--color-black);
 .footer-copyright {
   margin: 0;
   font-size: var(--font-size-small);
-  color: var(--text-color);
-}
-
-.footer-address{
   color: var(--text-color);
 }
 
