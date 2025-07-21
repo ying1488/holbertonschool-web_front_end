@@ -241,8 +241,8 @@ a:active {
   position: var(--header-position);
 }
 
-.header-logo a{
-   isplay: var(--header-logo-link-display);
+.header-logo a {
+  display: var(--header-logo-link-display);
   position: var(--header-logo-link-position);
   top: var(--header-logo-link-top);
   left: var(--header-logo-link-left);
