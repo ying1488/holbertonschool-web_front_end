@@ -170,7 +170,7 @@ ul.row{
 .row::after{
   content: "";
   display: table;
-  claear: both;
+  clear: both;
 }
 
 .col-1-3 {
